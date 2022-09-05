@@ -1,0 +1,5 @@
+name=(input("enter the details"))
+age=int(input("enter the details"))
+standard=int(input("enter the details"))
+print(name, age,    standard,"\n\n")
+print(name,"\n",age,"\n",standard,"\n")
